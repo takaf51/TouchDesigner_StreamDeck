@@ -7,9 +7,9 @@
 **Please import the DeckProfile. You also need to install the API Ninja and Super Macro plugins. Please adjust the server address, port number, etc. according to your environment.**
 
 ## TouchDesigner
-**Please use the tox file in this repository as is, or set it as the Custom Startup File by going to Preferences -> General -> Start Up File and changing it to "Custom File" and specifying the Custom Startup File.
+**Please use the tox file in this repository as is, or set it as the Custom Startup File by going to Preferences -> General -> Start Up File and changing it to "Custom File" and specifying the Custom Startup File.**
 
-If you need to modify or add functions, please add the URI and function name to the "switcher" dictionary in the Python script of the Web Server DAT OP (StreamdeckCommandReceiver), and add the function accordingly.**
+**If you need to modify or add functions, please add the URI and function name to the "switcher" dictionary in the Python script of the Web Server DAT OP (StreamdeckCommandReceiver), and add the function accordingly.**
 
 
 | Icon        | Function           | Equivalente Shortcut  |
