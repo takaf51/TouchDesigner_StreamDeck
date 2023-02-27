@@ -12,6 +12,8 @@
 **If you need to modify or add functions, please add the URI and function name to the "switcher" dictionary in the Python script of the Web Server DAT OP (StreamdeckCommandReceiver), and add the function accordingly.**
 
 
+
+## Function List
 | Icon        | Function           | Equivalente Shortcut  |
 | :-------------: |:-------------| :-----:|
 | <img alt='TD' width='57' src='Icons/TD_Logo.png'/>| Default Pane Layout  | Call Python API (http) |
