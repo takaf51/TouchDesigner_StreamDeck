@@ -1,5 +1,7 @@
 # td_streamdeck
 
+<p align="center"><img width="50%" src="Icons/TD_SD.png" /></p>
+
 This is a setup for operating TouchDesigner with StreamDeck. For some functions that cannot be achieved with keyboard shortcuts, I use TouchDesigner's WebServer to call the URI corresponding to the Python function implemented in the WebServerOP via http from StreamDeck.
 
 | Icon        | Function           | Equivalente Shortcut  |
