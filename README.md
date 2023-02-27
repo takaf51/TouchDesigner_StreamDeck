@@ -31,3 +31,6 @@
 | <img alt='TD' width='57' src='Icons/Bypass.png'/>| Bypass OP  | B |
 | <img alt='TD' width='57' src='Icons/Undo.png'/>| Undo  | Ctrl + Z |
 | <img alt='TD' width='57' src='Icons/CreateNewOperator.png'/>| Create OP by Voice Typing  | Double Click, Win + H (Windows Only)  |
+
+## Feedback
+For feature requests or bug reports, please file a [GitHub Issue](https://github.com/takaf51/td_streamdeck/issues).
