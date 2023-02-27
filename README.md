@@ -1,7 +1,16 @@
 # td_streamdeck
 <p align="center"><img width="50%" src="Icons/TD_SD.png" /></p>
 
-**This is a setup for operating TouchDesigner with StreamDeck. For some functions that cannot be achieved with keyboard shortcuts, I use TouchDesigner's WebServer to call the URI corresponding to the Python function implemented in the WebServerOP via http from StreamDeck.**
+**This is a setup for operating TouchDesigner with StreamDeck. For some functions that cannot be achieved with keyboard shortcuts, I use TouchDesigner's WebServer to call the URI corresponding to the Python function implemented in the WebServerOP via http from StreamDeck.　Both Stream Deck and TouchDesigner require configuration.**
+
+## Stream Deck
+**Please import the DeckProfile. You also need to install the API Ninja and Super Macro plugins. Please adjust the server address, port number, etc. according to your environment.**
+
+## TouchDesigner
+**Please use the tox file in this repository as is, or set it as the Custom Startup File by going to Preferences -> General -> Start Up File and changing it to "Custom File" and specifying the Custom Startup File.
+
+If you need to modify or add functions, please add the URI and function name to the "switcher" dictionary in the Python script of the Web Server DAT OP (StreamdeckCommandReceiver), and add the function accordingly.**
+
 
 | Icon        | Function           | Equivalente Shortcut  |
 | :-------------: |:-------------| :-----:|
