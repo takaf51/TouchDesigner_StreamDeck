@@ -26,7 +26,7 @@
 | <img alt='TD' width='57' src='Icons/View.png'/>| Open Current Op Viewer  | Shift + V |
 | <img alt='TD' width='57' src='Icons/Null.png'/>| Create null OP  | Call Python API (http) |
 | <img alt='TD' width='57' src='Icons/BS.png'/>| Delete Selection  | Backspace |
-| <img alt='TD' width='57' src='cons/PlayPause.png'/>| Play / Pause  | SPACE |
+| <img alt='TD' width='57' src='Icons/PlayPause.png'/>| Play / Pause  | SPACE |
 | <img alt='TD' width='57' src='Icons/Home.png'/>| Home All  | H |
 | <img alt='TD' width='57' src='Icons/Bypass.png'/>| Bypass OP  | B |
 | <img alt='TD' width='57' src='Icons/Undo.png'/>| Undo  | Ctrl + Z |
